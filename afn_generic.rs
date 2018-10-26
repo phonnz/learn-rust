@@ -9,6 +9,10 @@ fn add<T:Add<Output=T>> (first: T, second: T) -> T {
     first + second
 }
 
+fn transmute<T, U> (arg: T) -> U {
+    //...
+}
+
 
 fn main(){
     let x: GenericStruct<String> = GenericStruct{ value: "done".to_string(), };

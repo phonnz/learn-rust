@@ -75,6 +75,7 @@ trait (Like interfacea or contract)
 
 #### Functions
 - returns type "()" (unit)
+- When it ends with ! is not a function, is a macro like println!, macros won't get ownership
 
 
 #### Match
@@ -101,3 +102,19 @@ As switch or case
 > 
 > 
 > 
+
+#### Result
+- We need to manage result 
+
+#### Ownership
+- Every value has 1ownser
+- Ownership transference
+- The owner is resposible for free the memory
+
+RAI - resource acquisition initialization
+
+#### Borrowing
+- Need to declare if is mut the vborrowing
+
+#### Iterators
+- iter() of a vector Vec<T>
