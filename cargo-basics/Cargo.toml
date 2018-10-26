@@ -1,6 +1,0 @@
-[package]
-name = "cargo-basics"
-version = "0.1.0"
-authors = ["phonnz <alfonso@500startups.com>"]
-
-[dependencies]
