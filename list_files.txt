@@ -1,0 +1,17 @@
+./clone.rs
+./closures.rs
+./infinite_list.rs
+./lifetime-3.rs
+./lifetime-2.rs
+./arrays.rs
+./iterators.rs
+./operations.rs
+./enum.rs
+./option.rs
+./r-1.rs
+./borrowing.rs
+./lifetime.rs
+./if-let.rs
+./modules.rs
+./afn_generic.rs
+./struct.rs
